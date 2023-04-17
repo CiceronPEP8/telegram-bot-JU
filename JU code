@@ -6,7 +6,7 @@ from telegram import ReplyKeyboardMarkup
 import re
 
 
-BOT_TOKEN = '6075495935:AAHVyGMuHJUzgOrG0SLCLeuW9pXcDaVVl7I'
+BOT_TOKEN = '6284294249:AAG8eRO8epdNOFiz_-jztRACN5JAbfiwm2U'
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 reply_keyboard = [['/kinkoalu', '/kinpandu', '/kinkenguru', '/start', '/pomogi'],
