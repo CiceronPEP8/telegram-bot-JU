@@ -1,0 +1,5 @@
+pip install random
+pip install requests
+pip install re
+pip install logging
+pip install python-telegram-bot[ext] — upgrade
